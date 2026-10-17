@@ -1,4 +1,4 @@
-# Oral Disease Classification Using Deep Learning
+# Oral Disease Classification (DL) and XAI evaluation 
 
 ## Project Overview
 
@@ -81,12 +81,6 @@ The model was configured with the following parameters:
 | Number of classes | 6 |
 
 Training was performed in Google Colab, with model checkpoints saved to Google Drive.
-
-## Evaluation
-
-The model was evaluated on the held-out test subset.
-
-The recorded test accuracy was **23.40%**.
 
 This result indicates that the model requires further optimization and evaluation before it can be considered reliable. Potential improvements include reviewing the training pipeline, using separate transformations for training and testing, evaluating class-wise performance, and experimenting with transfer learning.
 
