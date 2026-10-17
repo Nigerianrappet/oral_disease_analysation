@@ -98,3 +98,5 @@ Grad-CAM visualizations are exploratory and do not establish clinical validity o
 oral_disease_analysation/
 ├── README.md
 └── oral_disease_analysis.ipynb
+### nb
+This project is for educational and research purposes only. It is not intended for clinical diagnosis or medical decision-making.
